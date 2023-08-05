@@ -1,0 +1,12 @@
+#FFA
+#80F
+input.css
+#762179 border
+''#707070 fonts
+mainpage.css
+var(--text-common) heading-colour
+#BAD8FD40 box
+#566775 dropdown text
+#08BD80 hovergreen
+#80f 0%, rgb(230, 8, 230) gradient
+7c2ae8 cb6ce6 gradient image
